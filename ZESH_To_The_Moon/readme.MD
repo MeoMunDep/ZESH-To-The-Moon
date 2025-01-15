@@ -94,6 +94,8 @@ _Note: Each row for each account_
 
 ### 3. `wallets.txt` - 💼 Wallet Addresses
 
+- Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
+
 Add your wallet addresses in the following format:
 
 ```txt
@@ -124,12 +126,12 @@ _Note: each row for each account_
 1. Navigate to the folder containing the bot files:
 
    ```bash
-   cd /path/to/bot-folder
+   cd /path/to/meomundep-folder
    ```
 
 2. Run the bot using the following command:
    ```bash
-   node bot
+   node meomundep
    ```
 
 ---
