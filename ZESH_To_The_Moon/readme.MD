@@ -98,10 +98,12 @@ _Note: Each row for each account_
 
 Add your wallet addresses in the following format:
 
+- Sui wallet address
+
 ```txt
-abc...xyz
-abc...xyz
-abc...xyz
+0x...
+0x...
+0x...
 ```
 
 _Note: Wallet updates are currently not supported._
